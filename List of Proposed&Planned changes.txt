@@ -1,0 +1,62 @@
+7 Day to Survive Server Changes/Features
+
+* 24/7 uptime except for updates/maintenance, done monthly.
+* No resets, no wipes.
+
+Gameplay Basics:
+* No "7 day" hordes.
+* 240 minute game day with fluctuating day/night length based on current Chicago sunrise/sunset times. So if it's December in Chicago, the day only lasts for around 12 hours.
+* Nomad difficulty.
+* 75% loot chance 
+* 80% exp rate.
+* Zombie Day Speed: Jog
+* Zombie Night speed: Run
+* Zombie Feral Speed: Sprint
+* Zombie Feral Sense: Off
+* Persistent Profiles: Off
+* Player Block Damage: 100%
+* Zombie Block Damage: 50%
+* Loot Respawn Time: 20 Days
+* Drop on Death: Everything
+* Drop on Quit: Nothing
+* Air Drops: Every 5 days
+* Kill Everyone
+* Claim Size: 51 blocks
+* Claim Duration: 10 days
+* Bedrool Deadzone: 30 blocks
+* Party Share Kill Range: 500 meters
+
+Gameplay Mechanics:
+* Hunger and thirst rates have been decreased slightly. Being completely hungry no longer completely blocks your stamina from increasing but slows it down considerably (about 1 stamina replenished per 5 seconds). Additionally being that hungry slows down player health loss quite considerably. Being thirsty still hurts you at about the same rate.
+* Murky water only causes 1 damage however the chance to cause dysentery is at a staggering 80%. Having dysentery is an increased drain on your food consumption.
+* Food and drink in loot have become more rare, requiring more farming for crops and animals. Meals such as fish tacos, vegetable stew and the likes replenish more thirst and hunger.
+* Wandering Hordes: Spawns between 5 and 50 zombies that move toward a random player based on game stage randomly every 8 to 24 hours. These are not typical "horde" zombies.
+* Zombie spawns in towns and cities has been drastically increased, and often zombies will re-spawn as soon as one is killed. Zombies will be more alert to gunfire, especially at night.
+* Glass Jars are now craftable. 25 Sand, 20 Clay, 5 Iron and 5 Lead makes 2 Empty Jars. Jars still disappear on consumption (because of the leaded glass...)
+* You may no longer directly build Cobblestone, Concrete or Metal building blocks. Building Blocks now take 4 wood each instead of 2. Wood Blocks now require 5 wood.
+* Making concrete or cobblestone now requires murky water.
+* Empty Jars can be found in loot, at the same frequency as teas and coffee (fairly uncommonly).
+* Empty Jars can be filled at water sources to turn into Murky water.
+* All bullets require a primer, only 1 type of primer works for all bullets. One will craft the bullet tip and the casing as normal and combine them at a new ammo reloading workbench with the primer to make ammo. Primers require 10 gunpowder, 10 iron and 10 brass to make 20 primers. Primers can be crafted at the ammo reloading workbench or the regular workbench. Shotgun shells are nearly the same however you will craft the "shell", which is everything but the primer, then the primer at the ammo workbench.
+* Rocket launchers and rockets are no longer craftable. The trader will rarely sell these for a much increased price.
+* Repair Kits require 1 Forged Iron, 1 Polymers, 1 Glue, 1 Cloth and 1 Duct Tape per kit.
+* To repair guns requires parts from that class of gun and the repair kit. For example, to repair a pistol requires a handgun part plus a repair kit. 
+* Solar panels are now only found in working stiff tool crates rarely. Solar panels on roofs have a very small chance to have functional solar cells inside.
+* trading quests still feature xp and money rewards, but the item rewards have been reduces quite a bit, featuring mostly only ammo, food, beverage and supply rewards.
+* Supply drops will never contain guns.
+* Bear attack speed and damage has been increased dramatically, as has block damage. It will take only 1 hit, maybe 2 to kill a low level player -- an outfitted player may die in 2 or maybe 3 hits. A bear can rip down a wood structure quite quickly, only 3 hits per block.
+* Snake attack speed has been decreased, as has damage. Snakes have a high chance to cause infection which will start at a higher level.
+* Honey only heals 3% infection. However it features a high Food replenishment value.
+* Deer can spawn at night in the forest, as can bears and snakes.
+* Snakes are more likely in the daytime in forests. The chicken population has been decreased. Deer, bears and mountain lions can spawn rarely in the daytime in forests.
+* Gas has been "dumbed down" quite a bit and simplified and also made much more rare. Think of "gas" quantity as "tenths of litres" and you'll get the picture (so 10 gas units in game is actually 1.0 litres, 65 units of gas is 6.5 litres). This involves the following changes to gas:
+	- Gas crafting now requires 250 oil shale, 5 glue, 20 wood and 10 polymer to craft 10 gas. Takes around 5 minutes to craft.
+	- The generator can only hold 100 units of gas (but the gas consumption per watt has been decreased damatically).
+	- Gas obtained when breaking down cars is a maximum of 150 and drops have been decreased.
+	- Gas to fill the minibike is only 50.
+	- Gas to fill the motorcycle is 75.
+	- Gas to fill most other vehicles is 200.
+	- Gas consumption has been decreased in all vehicles to compensate.
+
+
+	
